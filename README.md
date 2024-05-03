@@ -7,5 +7,6 @@ Only needs 3 DLLs:
 * 0Harmony.dll
 * MelonLoader.dll
 * UnityEngine.CoreModule.dll
+
 grab them from the game you have installed, use those as references and compile, or just download a prebuilt DLL from the releases page.<br/>
 currently i only compile for Mono, if you want to use it on il2cpp you need to compile it yourself.
